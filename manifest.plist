@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://ehs5rg.dm.files.1drv.com/y4mMv2qhhAhEnV8Hlwz-eANLSB-7oJk2blamrtKPIKtMZDfNqUwydX7EqNc8dBsTx2-ARzixhANB-ANJx_zXULTuAnJS-kITv-_fCm9NeRHD9Nj7BhpKf60P4JtZR1fGWYUaC2FdEmIeUVjqMI3V8ab1Rcmfc1j535L2B-z7Qu6jpPSfXdOx-dq4EZ1wfuTXnck/resigned-35976aca2f5898e9b02d917979d11f40.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://iosna.pixelgames.me/radiumme/57-C9.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://iosna.pixelgames.me/radiumme/512-C9.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.guanwangbao.c9.pixelus.ios</string>
+				<key>bundle-version</key>
+				<string>6.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>MicroMonster Trainers</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
